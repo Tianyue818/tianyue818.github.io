@@ -2,7 +2,7 @@
 title: "Flareon: Stealthy any2any Backdoor Injection via Poisoned Augmentation"
 collection: publications
 permalink: /publication/2022-12-20-paper-title-number-1
-excerpt: 
+excerpt: 'Stealthy backdoor attack!'
 date:2022-12-20
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2212.09979'

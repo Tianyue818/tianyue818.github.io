@@ -14,3 +14,6 @@ I am very fortunate to be advised by [Prof. Xitong Gao](https://admk.github.io/)
 
 Recently,  my research has focused on Trustworthy AI, including adversarial samples, backdoor attacks, data poisoning, etc.
 
+## News
+
+Start My master in SIAT!😄 9.1.2021

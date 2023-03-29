@@ -2,7 +2,7 @@
 title: "Learning the unlearnable: Adversarial augmentations suppress unlearnable example attacks."
 collection: publications
 permalink: /publication/2023-03-27-paper-title-number-1
-excerpt: 'Stealthy backdoor attack!'
+excerpt: 'A defense for unlearnable examples.'
 date: 2023-03-27
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/'

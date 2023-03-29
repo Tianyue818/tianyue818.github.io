@@ -6,9 +6,9 @@ excerpt: 'Stealthy backdoor attack!'
 date: 2022-12-20
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2212.09979'
-citation: 'Tianrui, Qin.  et al. (2022). &quot;Flareon: Stealthy any2any Backdoor Injection via Poisoned Augmentation.&quot; <i>arxiv</i>. 1(1).'
+citation: 'Tianrui, Qin. et al. (2022). &quot;Flareon: Stealthy any2any Backdoor Injection via Poisoned Augmentation.&quot; <i>arxiv</i>.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2212.09979)
 
-Recommended citation: Your Name, You. (2022). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Tianrui, Qin. et al. (2022). "Flareon: Stealthy any2any Backdoor Injection via Poisoned Augmentation." <i>Journal 1</i>. 
